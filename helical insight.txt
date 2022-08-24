@@ -1,0 +1,17 @@
+COURSECONTENT
+1. Installation of Helical Insight
+2. Develop a Helical Insight application with various Filters
+3. Develop a Helical Insight application to export Reports and Dashboards
+4. Develop a Helical Insight application to Export Reports and Dash Boards
+5. Develop a Helical Insight application to Integrate using iFrame
+6. Develop a Helical Insight application to customize Tables with Drill Down Function
+7. Develop a Helical Insight application to customize Adhoc Charts with Drill Down Functions,
+Axis Chart, Non-Axis Chart and Gauge Chart
+8. Develop a Helical Insight application with various operations in Dashboard Designer
+9 Develop a Helical Insight application with Geographical Maps
+10 Develop a Helical Insight application on Tomcat with MySQL
+11 Develop a Helical Insight application with SQL Server database
+12 Develop a Helical Insight application with SQlite database
+13 Develop a Helical Insight application with HBase
+14 Develop a Helical Insight application with MongoDB using Apache Drill
+15 Develop a Helical Insight application with Hive
